@@ -1,0 +1,25 @@
+{
+  "gender" : "male,female",
+  "count" : 10,
+  "delay" : 15,
+  "redirect": "https://google.com",
+  "share" : "https://google.com",
+  "share_urls": {
+    "facebook" : "https://www.facebook.com/sharer/sharer.php?u=",
+    "googleplus" : "https://plus.google.com/share?url=",
+    "twitter" : "https://twitter.com/intent/tweet?text=&amp;url=",
+    "linkedin": "https://www.linkedin.com/shareArticle?mini=true&amp;url=",
+    "pinterest": "https://www.pinterest.com/pin/create/button?url=",
+    "reddit": "http://www.reddit.com/submit",
+    "email": "mailto:@?subject="
+  },
+  "share_icons" : {
+    "facebook" : true,
+    "googleplus": false,
+    "reddit" : false,
+    "twitter": true,
+    "linkedin": true,
+    "pinterest": false,
+    "email": true
+  }
+}
